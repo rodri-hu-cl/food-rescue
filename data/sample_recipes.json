@@ -1,0 +1,44 @@
+[
+  {
+    "id": "clyYQv",
+    "title": "Brown Sugar Meatloaf",
+    "ingredients": ["brown sugar", "ketchup", "ground beef", "milk", "eggs", "salt", "black pepper", "onion", "ground ginger", "cracker crumbs"],
+    "time_minutes": 70,
+    "instructions": "Preheat oven to 350F. Mix brown sugar and ketchup in bottom of pan. Mix remaining ingredients, shape into loaf, and bake for 1 hour."
+  },
+  {
+    "id": "BmqFAm",
+    "title": "Best Chocolate Chip Cookies",
+    "ingredients": ["butter", "white sugar", "brown sugar", "eggs", "vanilla extract", "flour", "baking soda", "salt", "chocolate chips", "walnuts"],
+    "time_minutes": 25,
+    "instructions": "Cream butter and sugars. Beat in eggs and vanilla. Dissolve baking soda in hot water and add with salt. Stir in flour, chocolate chips, and nuts. Bake at 350F for 10 minutes."
+  },
+  {
+    "id": "FHQAJv",
+    "title": "White Sauce or Bechamel Sauce",
+    "ingredients": ["butter", "flour", "milk", "salt", "pepper", "cheddar cheese"],
+    "time_minutes": 10,
+    "instructions": "Melt butter in saucepan. Stir in flour and cook 2 minutes. Add hot milk gradually while stirring until thickened. Season with salt, pepper, and stir in cheddar cheese."
+  },
+  {
+    "id": "kq_naD",
+    "title": "Banana Bread",
+    "ingredients": ["flour", "baking soda", "salt", "butter", "brown sugar", "eggs", "bananas"],
+    "time_minutes": 65,
+    "instructions": "Combine dry ingredients. Cream butter and brown sugar. Add eggs and mashed bananas. Fold into dry mixture and bake at 350F for 60 minutes."
+  },
+  {
+    "id": "PmoGGX",
+    "title": "Middle-Eastern Eggplant Rounds",
+    "ingredients": ["olive oil", "eggplant", "salt", "hummus", "tomatoes", "parsley", "lemon zest"],
+    "time_minutes": 15,
+    "instructions": "Heat oil in skillet. Cook eggplant rounds 4 mins. Flip and top with dollop of hummus and cherry tomatoes. Cover and cook 7 mins until tender. Garnish with parsley and lemon zest."
+  },
+  {
+    "id": "5l1yTS",
+    "title": "Sour Cream Noodle Bake",
+    "ingredients": ["ground beef", "tomato sauce", "salt", "black pepper", "egg noodles", "sour cream", "cottage cheese", "green onions", "cheddar cheese"],
+    "time_minutes": 35,
+    "instructions": "Brown meat and stir in tomato sauce. Cook noodles. Mix sour cream, cottage cheese, and green onions. Layer noodles, cheese mixture, meat sauce, and cheddar in baking dish. Bake at 350F for 20 minutes."
+  }
+]
